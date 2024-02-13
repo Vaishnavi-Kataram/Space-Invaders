@@ -11,3 +11,7 @@ Player Controls: Navigate your spaceship left, right, up and down to avoid enemy
 Scoring System: Keep track of your high scores as you aim to achieve the highest score possible by eliminating aliens and surviving the relentless onslaught.
 
 Customization: Explore the codebase to understand the game's architecture and make your modifications. Experiment with new features, levels, or visual elements to personalize the game and make it your own.
+
+
+https://github.com/Vaishnavi-Kataram/Space-Invaders/assets/127044243/25219165-d7bb-4099-8c41-161311474804
+
