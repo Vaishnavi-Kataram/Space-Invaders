@@ -13,5 +13,7 @@ Scoring System: Keep track of your high scores as you aim to achieve the highest
 Customization: Explore the codebase to understand the game's architecture and make your modifications. Experiment with new features, levels, or visual elements to personalize the game and make it your own.
 
 
-https://github.com/Vaishnavi-Kataram/Space-Invaders/assets/127044243/25219165-d7bb-4099-8c41-161311474804
+
+
+https://github.com/Vaishnavi-Kataram/Space-Invaders/assets/127044243/be33589e-4ea9-420b-92b2-bfd4926b596c
 
